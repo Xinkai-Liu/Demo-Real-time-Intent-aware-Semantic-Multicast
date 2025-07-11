@@ -1,14 +1,24 @@
 # Demo: Real-time-Generative-Multicasting-with-On-Device-Intent-aware-Semantic-Decomposition
-<div align="center">
+### 🎬 Video Demo: Real-Time Generative Multicasting
 
-🎬 **Video Demo**  
-This is the real-time video demo for Generative Multicasting with On-Device Intent-aware Semantic Decomposition.  
-The transmitter is a Google Coral Edge TPU board with a maximum of 4 TOPS (int8) computations, equipped with a  
-Debian Mendel Linux system, and powered by a portable power bank. The receivers are two laptops with NVIDIA RTX 3060 and RTX 4060 GPUs.  
-The real-time video input is captured by a connected webcam, and all communications are through Wi-Fi 2x2 MIMO (802.11b/g/n/ac 2.4/5GHz).  
-This is a “live demo” with hardware/software set up at the conference venue.
+This is a real-time demo of **Generative Semantic Multicasting** with on-device, intent-aware semantic decomposition.
 
-</div>
+📡 **Transmitter**:  
+A Google Coral Edge TPU board (🧠 up to 4 TOPS, int8) running Debian Mendel Linux, powered by a portable battery pack.
+
+💻 **Receivers**:  
+Two laptops equipped with NVIDIA RTX 3060 and RTX 4060 GPUs.
+
+🎥 **Video Input**:  
+Live captured via a USB webcam connected to the transmitter.
+
+🌐 **Communication**:  
+Wireless transmission over Wi-Fi 2×2 MIMO (802.11b/g/n/ac @ 2.4/5GHz).
+
+⚙️ **Setup**:  
+This is a **live hardware/software demonstration** deployed on-site at the conference venue.
+
+
 
 
 https://github.com/user-attachments/assets/300769b3-904d-4d2e-a1aa-77a687e4abf8
