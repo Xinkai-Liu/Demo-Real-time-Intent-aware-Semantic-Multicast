@@ -21,4 +21,5 @@ This is a **live hardware/software demonstration** deployed on-site at the confe
 
 https://github.com/user-attachments/assets/300769b3-904d-4d2e-a1aa-77a687e4abf8
 
-[ICCC_2025_Demo_Poster.pdf](https://github.com/user-attachments/files/21233705/ICCC_2025_Demo_Poster.pdf)
+
+<img width="7015" height="9933" alt="ICCC_2025_Demo_Poster" src="https://github.com/user-attachments/assets/dbad66bb-973d-4cf9-9f0f-6bbec25cfd62" />
